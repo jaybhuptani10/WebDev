@@ -1,0 +1,50 @@
+h1{
+    color: red;
+    text-align: center;
+}
+.menu{
+    text-align: right;
+    background: black;
+    padding: 30px; 
+    border:5px groove red; 
+}
+.Sign_in,.Films,.Friends,.You,.Aboutus{
+    color: white;
+    font-size: larger;
+}
+p,.Login{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: white;
+    font-size: xx-large;
+    margin-top: 30px;
+    border: 5px groove red;
+}
+.Login{
+    margin-top: 100px;
+    
+}
+ul{
+    color: white;
+    list-style: none;
+}
+li{
+    font-size: larger;
+    display: inline;
+    margin: 25px;
+}
+li a{
+    color: white;
+    text-decoration: none;
+}
+li a:hover{
+    text-decoration: underline;
+    color: red;
+}
+footer{
+    color: white;
+    text-align: right;
+}
+    
